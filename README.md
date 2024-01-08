@@ -18,6 +18,9 @@ Image 1: Entity Relationship Diagram
 - Correctly uses NOT NULL condition on necessary columns (10 points)
 - Accurately defines value length for columns (10 points)
 
+Schema.sql outlines the code used to create the tables. 
+"https://github.com/emilys28/sql-challenge/blob/25e4f6eee922fd510ac7314ccb47863d9ae52d12/Schema.sql"
+
 ## Data Analysis 
 Ran queries to answer the following questions: 
 1. List the employee number, last name, first name, sex, and salary of each employee (2 points)
@@ -30,8 +33,12 @@ Ran queries to answer the following questions:
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name) (4 points)
 
 
-Queries are documented in ...
-Results can be found in.. .
+Queries to answer these questions are documented in Queries.sql. 
+"https://github.com/emilys28/sql-challenge/blob/25e4f6eee922fd510ac7314ccb47863d9ae52d12/Queries.sql"
+
+Results can be found in Data_Analysis.ipynb. 
+"https://github.com/emilys28/sql-challenge/blob/cb98bd36ceea2e79906f8112d1b0de54440e7998/Data_Analysis.ipynb"
+
 
 
 
