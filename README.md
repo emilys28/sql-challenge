@@ -19,7 +19,7 @@ Image 1: Entity Relationship Diagram
 - Accurately defines value length for columns (10 points)
 
 Schema.sql outlines the code used to create the tables. 
-"https://github.com/emilys28/sql-challenge/blob/25e4f6eee922fd510ac7314ccb47863d9ae52d12/Schema.sql"
+https://github.com/emilys28/sql-challenge/blob/25e4f6eee922fd510ac7314ccb47863d9ae52d12/Schema.sql
 
 ## Data Analysis 
 Ran queries to answer the following questions: 
@@ -34,10 +34,10 @@ Ran queries to answer the following questions:
 
 
 Queries to answer these questions are documented in Queries.sql. 
-"https://github.com/emilys28/sql-challenge/blob/25e4f6eee922fd510ac7314ccb47863d9ae52d12/Queries.sql"
+https://github.com/emilys28/sql-challenge/blob/25e4f6eee922fd510ac7314ccb47863d9ae52d12/Queries.sql
 
 Results can be found in Data_Analysis.ipynb. 
-"https://github.com/emilys28/sql-challenge/blob/cb98bd36ceea2e79906f8112d1b0de54440e7998/Data_Analysis.ipynb"
+https://github.com/emilys28/sql-challenge/blob/cb98bd36ceea2e79906f8112d1b0de54440e7998/Data_Analysis.ipynb
 
 
 
