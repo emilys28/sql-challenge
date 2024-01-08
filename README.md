@@ -10,13 +10,13 @@ Image 1: Entity Relationship Diagram
 <img width="990" alt="Challenge 9 ERD" src="https://github.com/emilys28/sql-challenge/blob/bbfef070f4d892ffc26af99259ad4437bcab30a5/QuickDBD-Challenge9.png">
 
 ## Data Engineering 
-All required columns are defined for each table (10 points)
-Columns are set to the correct data type (10 points)
-Primary Keys set for each table (10 points)
-Correctly references related tables (10 points)
-Tables are correctly related using Foreign Keys (10 points)
-Correctly uses NOT NULL condition on necessary columns (10 points)
-Accurately defines value length for columns (10 points)
+- All required columns are defined for each table (10 points)
+- Columns are set to the correct data type (10 points)
+- Primary Keys set for each table (10 points)
+- Correctly references related tables (10 points)
+- Tables are correctly related using Foreign Keys (10 points)
+- Correctly uses NOT NULL condition on necessary columns (10 points)
+- Accurately defines value length for columns (10 points)
 
 ## Data Analysis 
 Ran queries to answer the following questions: 
