@@ -7,7 +7,7 @@ Emily L Sims
 
 ## Data Modeling
 Image 1: Entity Relationship Diagram
-<img width="990" alt="Challenge 9 ERD" src="https://github.com/emilys28/sql-challenge/blob/bbfef070f4d892ffc26af99259ad4437bcab30a5/ERD-Challenge9.png">
+<img width="990" alt="Challenge 9 ERD" src="https://github.com/emilys28/sql-challenge/blob/4c97af5a8b808cb8d25e42d5ace1f351f7ff3a2a/ERD-Challenge9.png">
 
 ## Data Engineering 
 - All required columns are defined for each table (10 points)
